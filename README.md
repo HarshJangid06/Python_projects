@@ -21,10 +21,10 @@ as an example of what a submission file should look like.
 
 Contents:
 
-Import Necessary Libraries
-Read In and Explore the Data
-Data Analysis
-Data Visualization
-Cleaning Data
-Choosing the Best Model
-Creating Submission File
+1= Import Necessary Libraries
+2= Read In and Explore the Data
+3= Data Analysis
+4= Data Visualization
+5= Cleaning Data
+6 =Choosing the Best Model
+7 =Creating Submission File
